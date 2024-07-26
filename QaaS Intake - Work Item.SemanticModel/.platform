@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "QaaS Intake - Work Item"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "0376dcdd-d34c-4a6d-9da5-773e92d80046"
+  }
+}

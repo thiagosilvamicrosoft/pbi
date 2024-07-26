@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "QaaS Intake - Work Item"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "41bb5576-a2f3-4a85-bfa4-2a5a94a50e98"
+  }
+}
